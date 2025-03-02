@@ -21,7 +21,6 @@ Um gerador de QR Code simples e intuitivo, desenvolvido com HTML, CSS e JavaScri
 
 
 ## 🛠 Como Usar?
-1️⃣ Clone este repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
-2️⃣ Abra o arquivo index.html no navegador
-3️⃣ Insira um texto ou URL e clique em "Gerar QR Code"
+- 1️⃣ Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+- 2️⃣ Abra o arquivo index.html no navegador
+- 3️⃣ Insira um texto ou URL e clique em "Gerar QR Code"
