@@ -1,11 +1,13 @@
 <h1>📌 Gerador de QR Code</h1>
 Um gerador de QR Code simples e intuitivo, desenvolvido com HTML, CSS e JavaScript. Permite que o usuário insira qualquer texto ou URL e gere um QR Code automaticamente.
 
+
 ## 💡 Sobre o projeto
 ✅ Insira um texto ou URL para gerar o QR Code
 ✅ Interface moderna e responsiva
 ✅ Utiliza uma API gratuita para gerar os códigos
 ✅ Fácil de usar e adaptar para outros projetos
+
 
 ## 🚀 Tecnologias usadas:
 
@@ -15,5 +17,9 @@ Um gerador de QR Code simples e intuitivo, desenvolvido com HTML, CSS e JavaScri
 
 📸 Preview
 
-🛠 Como Usar?
+
+## 🛠 Como Usar?
 1️⃣ Clone este repositório:
+git clone https://github.com/seu-usuario/seu-repositorio.git
+2️⃣ Abra o arquivo index.html no navegador
+3️⃣ Insira um texto ou URL e clique em "Gerar QR Code"
