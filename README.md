@@ -15,7 +15,7 @@ Um gerador de QR Code simples e intuitivo, desenvolvido com HTML, CSS e JavaScri
 - `CSS3`
 - `Javascript`
 
-##📸 Preview
+## 📸 Preview
 
 ![Screenshot_2](https://github.com/user-attachments/assets/a002fd96-a88c-4a5d-962a-c678b8cdce6c)
 
